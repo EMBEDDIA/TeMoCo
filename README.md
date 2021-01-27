@@ -2,7 +2,15 @@
 
 ## Embeddia Hackathon
 
-Code available in the Hackathon folder
+
+Example
+https://shanes-tests.appspot.com/newsTemporal
+
+TeMoCo is a temporat visualisation of topic distribution and ascoicated keywords.
+The tiles in the interface are linked to the related news articles and clicking on them
+brings up the articles with keyword highlighting in a sidepanel.
+
+Code available in the Hackathon folder.
 
 You can run the example by cloning this repo and starting a local server in the hackathon folder.
 
